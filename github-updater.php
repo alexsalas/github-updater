@@ -3,7 +3,7 @@
  * GitHub Updater
  *
  * @package   GitHub_Updater
- * @author    Andy Fragen
+ * @author    Andy Fragen and Alexander Salas
  * @license   GPL-2.0+
  * @link      https://github.com/alexsalas/github-updater
  */
